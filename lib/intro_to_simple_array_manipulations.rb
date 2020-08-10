@@ -8,8 +8,7 @@ def using_insert
 end
 
 def using_uniq
-  
-This method takes in a parameter of an Array and uses the .uniq method to remove any duplicate items.
+  #This method takes in a parameter of an Array and uses the .uniq method to remove any duplicate items.
 
 end 
 using_flatten
