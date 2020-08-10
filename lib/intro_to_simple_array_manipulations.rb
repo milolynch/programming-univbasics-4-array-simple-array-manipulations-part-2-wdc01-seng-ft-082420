@@ -11,8 +11,10 @@ def using_uniq
   #This method takes in a parameter of an Array and uses the .uniq method to remove any duplicate items.
 
 end 
-using_flatten
-This method takes in a parameter of an Array that contains other arrays and uses the .flatten method to return an array of strings.
+def using_flatten
+  
+#This method takes in a parameter of an Array that contains other arrays and uses the .flatten method to return an array of strings.
+end
 
 using_delete
 This method takes in two parameters, an Array and a String, and uses the .delete method to remove any items from the array that are equal to that string.
