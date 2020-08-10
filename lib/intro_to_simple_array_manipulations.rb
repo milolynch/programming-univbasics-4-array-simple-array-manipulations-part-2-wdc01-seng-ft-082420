@@ -5,7 +5,7 @@ end
 def using_insert(a, e)
   #This method takes in two parameters, an Array and a new element to be added to the array. it uses the .insert method to add the new element to the 4th index of the array.
   
-  a.insert(3,e)
+  a.insert(4,e)
 end
 
 def using_uniq(a)
