@@ -1,13 +1,17 @@
 def using_concat
 
 end
-using_insert
+def using_insert
 #This method takes in two parameters, an Array and a new element to be added to the array. it uses the .insert method to add the new element to the 4th index of the array.
+
+
 end
 
-using_uniq
+def using_uniq
+  
 This method takes in a parameter of an Array and uses the .uniq method to remove any duplicate items.
 
+end 
 using_flatten
 This method takes in a parameter of an Array that contains other arrays and uses the .flatten method to return an array of strings.
 
